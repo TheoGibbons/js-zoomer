@@ -181,6 +181,9 @@ let Zoomer = function ($) {
                     $img.on('load', imageIsLoaded);
                 }
 
+                // Repaint the image on window resize
+                $(window).resize(repaint);
+
             })
 
         }
