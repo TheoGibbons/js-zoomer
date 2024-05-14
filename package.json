@@ -1,0 +1,20 @@
+{
+    "name": "js-zoomer",
+    "version": "1.0.0",
+    "description": "A JavaScript package for image zooming functionality.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "zoom",
+        "image",
+        "zoomer",
+        "js-zoomer"
+    ],
+    "author": "Theo Gibbons",
+    "license": "MIT",
+    "dependencies": {
+        "jquery": ">=2.1.3"
+    }
+}
