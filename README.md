@@ -26,10 +26,10 @@ yarn add js-zoomer
 Make sure you have jQuery installed as well, as it's a dependency of Zoomer.
 
 ## Simple Demo
-A simple demo is provided in the ([demo-simple.html](https://theogibbons.github.io/js-zoomer/demo-simple.html) file. You can open this file in your browser to see Zoomer in action.
+A simple demo is provided in the [demo-simple.html](https://theogibbons.github.io/js-zoomer/demo-simple.html) file. You can open this file in your browser to see Zoomer in action.
 
 ## Complex Demo
-A simple demo is provided in the ([demo-complex.html](https://theogibbons.github.io/js-zoomer/demo-complex.html) file. You can open this file in your browser to see Zoomer in action.
+A simple demo is provided in the [demo-complex.html](https://theogibbons.github.io/js-zoomer/demo-complex.html) file. You can open this file in your browser to see Zoomer in action.
 
 ## Usage
 To enable zooming functionality, add the zoomer-container class to the container element that wraps your image:
