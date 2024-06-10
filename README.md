@@ -28,6 +28,7 @@ Make sure you have jQuery installed as well, as it's a dependency of Zoomer.
 ## Simple Demo
 A simple demo is provided in the **demo-simple.html** file. You can open this file in your browser to see Zoomer in action.
 A simple demo is provided in the [demo-simple.html](demo-simple.html) file. You can open this file in your browser to see Zoomer in action.
+A simple demo is provided in the ([demo-simple.html](https://theogibbons.github.io/js-zoomer/demo-simple.html) file. You can open this file in your browser to see Zoomer in action.
 
 ## Complex Demo
 A more complex demo is provided in the **demo-complex.html** file, showcasing multiple images on the same page with different sizes.
