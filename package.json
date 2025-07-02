@@ -1,6 +1,6 @@
 {
     "name": "js-zoomer",
-    "version": "1.0.02",
+    "version": "1.0.3",
     "description": "A JavaScript package for image zooming functionality.",
     "main": "index.js",
     "scripts": {
